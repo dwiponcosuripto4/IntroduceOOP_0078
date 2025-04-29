@@ -18,4 +18,8 @@ public:
 
 int main()
 {
+    Mahasiswa mhs;
+    mhs.nim = 20210140078;
+    mhs.nama = "Dwiponco Suripto";
+    mhs.nilai = 90.5;
 }
